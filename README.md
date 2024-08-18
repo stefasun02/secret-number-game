@@ -1,6 +1,6 @@
 # Secret Number Game
 
-Welcome to the **Secret Number Game**! This is a simple Python-based game where the player must guess a randomly generated number within a certain range. The game will guide the player by indicating whether their guess is too high or too low.
+Welcome to the **Secret Number Game**! This is a simple JS based game where the player must guess a randomly generated number within a certain range. The game will guide the player by indicating whether their guess is too high or too low.
 
 
 ## Features
